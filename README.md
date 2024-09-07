@@ -6,7 +6,7 @@ A web application mimicking the Netflix interface, built using **React**, **Tail
 
 - 🌟 **Browse movies and TV shows** using the [TMDb API](https://www.themoviedb.org/documentation/api).
 - ❤️ **Add and remove movies** from the favorites list.
-- 👤 **View favorite shows** on the user profile page.
+- 👤 **View list of your favorite shows** on the user profile page.
 - 🔐 **User registration and authentication** via Firebase Authentication.
 - 🚪 **Protected routes** with `ProtectedRoute` for managing access to the profile page.
 
