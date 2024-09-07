@@ -35,37 +35,45 @@ A web application mimicking the Netflix interface, built using **React**, **Tail
 The app is deployed on **Firebase Hosting**.
 
 ## How to Run Locally
-**1. Clone the Repository**
+1. Clone the Repository
 Start by cloning the repository from GitHub to your local machine:
 
 **git clone https://github.com/rubaka-pl/react-netflix.git**
 
-**2. Navigate to the Project Directory**
+2. Navigate to the Project Directory
 Move into the project directory:
+
 **cd react-netflix**
 
-**3. Install Dependencies**
+3. Install Dependencies
 Install the required dependencies using npm:
-npm install
+
+**npm install**
 
 4. Set Up Environment Variables 
 Create a **.env** file in the root of the project directory if it doesn't already exist. Add the following environment variables to the **.env** file:
 
-**VITE_TMDB_KEY=your_tmdb_api_key_here
-(code below is optional, write it if you want to use firebase)
+**VITE_TMDB_KEY=your_tmdb_api_key_here**
+
+
+**Optional: Firebase configuration (only if using Firebase)**
+
+
 VITE_FIREBASE_API_KEY=your_firebase_api_key_here
 VITE_FIREBASE_AUTH_DOMAIN=your_firebase_auth_domain_here
 VITE_FIREBASE_PROJECT_ID=your_firebase_project_id_here
 VITE_FIREBASE_STORAGE_BUCKET=your_firebase_storage_bucket_here
 VITE_FIREBASE_MESSAGING_SENDER_ID=your_firebase_messaging_sender_id_here
-VITE_FIREBASE_APP_ID=your_firebase_app_id_here**
+VITE_FIREBASE_APP_ID=your_firebase_app_id_here
 
 Firebase keys: If you want to deploy your own instance of the app, you will need to set up Firebase and obtain your API keys. Replace these values with your Firebase project credentials if you're configuring your own deployment.
 
-5. Start the Development Server
+#### 5. Start the Development Server 
 Run the following command to start the development server:
 
+
 **npm run dev**
+
 
 This will start the Vite development server and open your application in the default web browser.
 
