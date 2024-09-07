@@ -1,7 +1,7 @@
 # React Netflix
 
 A web application mimicking the Netflix interface, built using **React**, **Tailwind CSS**, and **Vite**. This app allows users to browse movies and TV shows, add them to favorites, and manage their profile. It includes **Firebase** authentication and protected routes for secure access.
-## PREVIEW https://react-netflix-d9f19.firebaseapp.com/
+## PREVIEW https://react-netflix-d9f19.firebaseapp.com/    (mnail: test@gmail.com password: test123)
 ## Features
 
 - 🌟 **Browse movies and TV shows** using the [TMDb API](https://www.themoviedb.org/documentation/api).
