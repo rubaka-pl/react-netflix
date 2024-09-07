@@ -34,8 +34,4 @@ A web application mimicking the Netflix interface, built using **React**, **Tail
 
 The app is deployed on **Firebase Hosting**.
 
-## How to Run Locally
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/rubaka-pl/react-netflix.git
